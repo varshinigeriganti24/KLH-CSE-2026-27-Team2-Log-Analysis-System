@@ -1,0 +1,501 @@
+timestamp,server,level,status_code,error_message,severity
+2026-08-01 08:44:49,server03,ERROR,403,Permission denied,High
+2026-08-01 08:49:33,server03,ERROR,500,Broken pipe,Medium
+2026-08-01 09:43:02,server03,ERROR,503,Service unavailable,High
+2026-08-01 10:21:31,server05,ERROR,403,Permission denied,High
+2026-08-01 10:44:13,server04,ERROR,400,Invalid request,Low
+2026-08-01 11:34:21,server05,ERROR,500,Out of memory,Critical
+2026-08-01 13:38:44,server05,ERROR,503,Service unavailable,High
+2026-08-01 14:13:14,server01,ERROR,400,Invalid request,Low
+2026-08-01 15:17:20,server05,WARN,500,Out of memory,Critical
+2026-08-01 15:30:32,server02,ERROR,504,Connection timeout,High
+2026-08-01 16:24:31,server05,ERROR,504,Connection timeout,High
+2026-08-01 16:55:46,server01,WARN,500,Internal server error,Critical
+2026-08-01 17:04:23,server01,WARN,500,Out of memory,Critical
+2026-08-01 17:08:58,server03,ERROR,500,Database connection failed,Critical
+2026-08-01 17:20:59,server03,WARN,500,Database connection failed,Critical
+2026-08-01 17:31:45,server03,ERROR,403,Permission denied,High
+2026-08-01 19:28:57,server03,WARN,500,Configuration error,High
+2026-08-01 19:34:32,server05,ERROR,500,Database connection failed,Critical
+2026-08-01 19:36:37,server04,ERROR,504,Connection timeout,High
+2026-08-01 19:43:33,server01,ERROR,503,Service unavailable,High
+2026-08-01 20:19:17,server04,ERROR,504,Database query timeout,High
+2026-08-01 20:37:51,server05,ERROR,503,Network unreachable,High
+2026-08-01 21:12:29,server01,ERROR,503,Service unavailable,High
+2026-08-01 22:29:39,server01,ERROR,500,Broken pipe,Medium
+2026-08-01 22:44:05,server05,ERROR,500,Database connection failed,Critical
+2026-08-01 22:47:46,server01,WARN,504,Connection timeout,High
+2026-08-01 23:19:24,server02,ERROR,504,Connection timeout,High
+2026-08-01 23:46:42,server01,ERROR,500,Database connection failed,Critical
+2026-08-01 23:52:54,server05,ERROR,500,Out of memory,Critical
+2026-08-02 00:20:45,server03,ERROR,404,File not found,Low
+2026-08-02 00:39:02,server01,WARN,500,Database connection failed,Critical
+2026-08-02 01:08:53,server02,ERROR,500,Database connection failed,Critical
+2026-08-02 01:22:15,server02,ERROR,500,Out of memory,Critical
+2026-08-02 01:32:36,server05,ERROR,500,Out of memory,Critical
+2026-08-02 02:08:10,server02,WARN,503,Service unavailable,High
+2026-08-02 02:30:13,server04,WARN,500,Database connection failed,Critical
+2026-08-02 02:30:45,server04,WARN,500,Internal server error,Critical
+2026-08-02 02:38:56,server03,ERROR,500,Database connection failed,Critical
+2026-08-02 03:01:57,server04,WARN,500,Out of memory,Critical
+2026-08-02 03:47:42,server02,WARN,500,Database connection failed,Critical
+2026-08-02 03:55:44,server02,ERROR,503,Network unreachable,High
+2026-08-02 04:02:12,server02,ERROR,504,Connection timeout,High
+2026-08-02 04:15:33,server01,ERROR,500,Database connection failed,Critical
+2026-08-02 04:43:57,server02,ERROR,500,Out of memory,Critical
+2026-08-02 05:07:46,server01,WARN,504,Connection timeout,High
+2026-08-02 05:12:45,server04,WARN,504,Connection timeout,High
+2026-08-02 05:34:40,server05,ERROR,500,Out of memory,Critical
+2026-08-02 05:56:53,server02,WARN,500,Broken pipe,Medium
+2026-08-02 06:34:07,server03,ERROR,503,Service unavailable,High
+2026-08-02 06:40:44,server03,WARN,500,Out of memory,Critical
+2026-08-02 06:57:07,server05,ERROR,500,Database connection failed,Critical
+2026-08-02 07:20:02,server02,ERROR,500,Database connection failed,Critical
+2026-08-02 07:38:51,server02,ERROR,500,Out of memory,Critical
+2026-08-02 08:33:45,server05,ERROR,500,Internal server error,Critical
+2026-08-02 08:40:34,server03,WARN,500,Internal server error,Critical
+2026-08-02 08:51:51,server01,WARN,504,Database query timeout,High
+2026-08-02 09:14:32,server03,WARN,503,Service unavailable,High
+2026-08-02 10:18:09,server04,ERROR,404,File not found,Low
+2026-08-02 10:19:29,server04,ERROR,401,Authentication failed,Medium
+2026-08-02 10:28:45,server01,ERROR,500,Database connection failed,Critical
+2026-08-02 11:06:13,server03,ERROR,503,Service unavailable,High
+2026-08-02 11:09:53,server02,ERROR,500,Database connection failed,Critical
+2026-08-02 11:17:26,server02,ERROR,500,Database connection failed,Critical
+2026-08-02 11:41:44,server03,WARN,500,Internal server error,Critical
+2026-08-02 12:10:14,server03,ERROR,500,Database connection failed,Critical
+2026-08-02 12:13:59,server04,ERROR,500,Database connection failed,Critical
+2026-08-02 13:13:59,server04,ERROR,504,Database query timeout,High
+2026-08-02 13:16:29,server04,ERROR,500,Broken pipe,Medium
+2026-08-02 13:16:49,server02,ERROR,500,Out of memory,Critical
+2026-08-02 13:25:07,server04,ERROR,500,Database connection failed,Critical
+2026-08-02 13:27:33,server05,WARN,403,Permission denied,High
+2026-08-02 13:46:15,server01,WARN,500,Database connection failed,Critical
+2026-08-02 13:51:13,server05,ERROR,500,Database connection failed,Critical
+2026-08-02 13:56:38,server02,ERROR,401,Authentication failed,Medium
+2026-08-02 14:28:00,server02,ERROR,404,File not found,Low
+2026-08-02 14:50:05,server02,WARN,504,Database query timeout,High
+2026-08-02 15:29:06,server04,ERROR,504,Connection timeout,High
+2026-08-02 15:29:09,server05,ERROR,503,Service unavailable,High
+2026-08-02 16:17:56,server03,WARN,429,Too many requests,Medium
+2026-08-02 16:25:39,server01,ERROR,500,Database connection failed,Critical
+2026-08-02 16:29:30,server03,WARN,500,Database connection failed,Critical
+2026-08-02 16:35:01,server03,ERROR,500,Database connection failed,Critical
+2026-08-02 16:35:08,server01,ERROR,504,Connection timeout,High
+2026-08-02 17:02:52,server04,ERROR,401,Authentication failed,Medium
+2026-08-02 17:12:45,server05,WARN,400,Invalid request,Low
+2026-08-02 17:21:36,server02,ERROR,503,Service unavailable,High
+2026-08-02 17:32:44,server04,ERROR,500,Broken pipe,Medium
+2026-08-02 17:32:48,server04,ERROR,403,Permission denied,High
+2026-08-02 17:35:44,server03,ERROR,504,Connection timeout,High
+2026-08-02 17:41:03,server04,WARN,504,Connection timeout,High
+2026-08-02 17:49:21,server01,ERROR,500,Out of memory,Critical
+2026-08-02 18:30:05,server05,WARN,500,Out of memory,Critical
+2026-08-02 18:55:10,server05,ERROR,500,Database connection failed,Critical
+2026-08-02 18:56:52,server01,WARN,404,File not found,Low
+2026-08-02 19:14:42,server02,ERROR,500,Database connection failed,Critical
+2026-08-02 19:15:35,server05,ERROR,503,Service unavailable,High
+2026-08-02 19:36:08,server04,ERROR,400,Invalid request,Low
+2026-08-02 20:13:14,server04,ERROR,500,Out of memory,Critical
+2026-08-02 20:37:49,server02,WARN,500,Database connection failed,Critical
+2026-08-02 20:40:40,server05,ERROR,401,Authentication failed,Medium
+2026-08-02 20:46:53,server04,ERROR,500,Out of memory,Critical
+2026-08-02 20:52:11,server03,ERROR,500,Out of memory,Critical
+2026-08-02 21:07:16,server01,ERROR,504,Connection timeout,High
+2026-08-02 22:10:14,server05,WARN,500,Configuration error,High
+2026-08-02 22:32:19,server05,WARN,500,Database connection failed,Critical
+2026-08-02 23:45:39,server01,ERROR,507,Disk space low,High
+2026-08-02 23:58:21,server03,ERROR,500,Broken pipe,Medium
+2026-08-03 00:04:07,server02,ERROR,401,Authentication failed,Medium
+2026-08-03 00:17:31,server05,WARN,500,Database connection failed,Critical
+2026-08-03 01:11:38,server03,ERROR,503,Network unreachable,High
+2026-08-03 01:36:51,server03,ERROR,500,Database connection failed,Critical
+2026-08-03 01:41:09,server02,WARN,500,Out of memory,Critical
+2026-08-03 02:55:11,server01,ERROR,504,Connection timeout,High
+2026-08-03 02:58:59,server01,ERROR,504,Connection timeout,High
+2026-08-03 03:12:19,server01,ERROR,404,File not found,Low
+2026-08-03 03:47:57,server03,ERROR,403,Permission denied,High
+2026-08-03 03:55:57,server02,WARN,503,Service unavailable,High
+2026-08-03 04:11:37,server02,WARN,500,Out of memory,Critical
+2026-08-03 04:18:13,server04,ERROR,429,Too many requests,Medium
+2026-08-03 04:23:04,server02,ERROR,503,Service unavailable,High
+2026-08-03 04:30:27,server02,ERROR,503,Service unavailable,High
+2026-08-03 04:31:03,server03,ERROR,500,Database connection failed,Critical
+2026-08-03 04:31:05,server02,WARN,500,Database connection failed,Critical
+2026-08-03 04:50:50,server04,ERROR,400,Invalid request,Low
+2026-08-03 04:57:39,server01,WARN,429,Too many requests,Medium
+2026-08-03 05:00:29,server04,ERROR,503,Network unreachable,High
+2026-08-03 05:01:00,server02,ERROR,504,Connection timeout,High
+2026-08-03 05:17:12,server02,ERROR,500,Database connection failed,Critical
+2026-08-03 05:35:36,server01,WARN,500,Out of memory,Critical
+2026-08-03 05:50:55,server03,ERROR,404,File not found,Low
+2026-08-03 05:51:20,server01,WARN,500,Database connection failed,Critical
+2026-08-03 06:04:00,server04,ERROR,500,Database connection failed,Critical
+2026-08-03 06:07:51,server03,WARN,500,Internal server error,Critical
+2026-08-03 06:41:39,server03,WARN,504,Connection timeout,High
+2026-08-03 07:03:50,server04,WARN,504,Connection timeout,High
+2026-08-03 07:15:28,server02,WARN,503,Service unavailable,High
+2026-08-03 07:35:39,server04,WARN,500,Database connection failed,Critical
+2026-08-03 07:57:14,server04,ERROR,500,Database connection failed,Critical
+2026-08-03 08:04:21,server04,ERROR,503,Service unavailable,High
+2026-08-03 08:13:00,server04,ERROR,500,Broken pipe,Medium
+2026-08-03 08:58:19,server01,WARN,404,File not found,Low
+2026-08-03 09:50:51,server05,ERROR,500,Database connection failed,Critical
+2026-08-03 10:03:42,server05,WARN,404,File not found,Low
+2026-08-03 10:32:06,server05,ERROR,401,Authentication failed,Medium
+2026-08-03 10:37:36,server05,ERROR,500,Out of memory,Critical
+2026-08-03 10:45:10,server03,ERROR,500,Database connection failed,Critical
+2026-08-03 10:59:33,server01,WARN,503,Service unavailable,High
+2026-08-03 11:01:40,server04,WARN,500,Broken pipe,Medium
+2026-08-03 11:34:12,server04,ERROR,504,Connection timeout,High
+2026-08-03 12:14:33,server03,WARN,504,Connection timeout,High
+2026-08-03 12:50:17,server02,WARN,500,Database connection failed,Critical
+2026-08-03 12:55:56,server01,ERROR,503,Service unavailable,High
+2026-08-03 14:38:14,server05,ERROR,500,Database connection failed,Critical
+2026-08-03 15:21:52,server03,ERROR,504,Connection timeout,High
+2026-08-03 16:05:39,server03,ERROR,500,Out of memory,Critical
+2026-08-03 16:15:11,server04,ERROR,504,Connection timeout,High
+2026-08-03 16:30:40,server03,WARN,500,Configuration error,High
+2026-08-03 17:37:08,server04,ERROR,500,Out of memory,Critical
+2026-08-03 18:04:04,server01,WARN,503,Service unavailable,High
+2026-08-03 18:09:58,server05,ERROR,504,Database query timeout,High
+2026-08-03 18:29:08,server02,WARN,503,Service unavailable,High
+2026-08-03 19:29:41,server03,ERROR,500,Database connection failed,Critical
+2026-08-03 19:32:33,server03,ERROR,500,Database connection failed,Critical
+2026-08-03 20:31:21,server02,ERROR,500,Out of memory,Critical
+2026-08-03 21:11:21,server02,ERROR,504,Connection timeout,High
+2026-08-03 21:41:26,server05,ERROR,500,Database connection failed,Critical
+2026-08-03 22:15:30,server04,ERROR,500,Database connection failed,Critical
+2026-08-03 23:01:35,server04,ERROR,500,Out of memory,Critical
+2026-08-03 23:29:12,server04,ERROR,503,Service unavailable,High
+2026-08-04 00:08:34,server01,ERROR,500,Database connection failed,Critical
+2026-08-04 00:28:40,server01,WARN,404,File not found,Low
+2026-08-04 01:42:54,server04,WARN,503,Service unavailable,High
+2026-08-04 01:44:10,server05,WARN,500,Out of memory,Critical
+2026-08-04 02:15:33,server03,ERROR,500,Out of memory,Critical
+2026-08-04 02:17:31,server02,ERROR,504,Connection timeout,High
+2026-08-04 02:33:12,server04,ERROR,500,Out of memory,Critical
+2026-08-04 03:51:56,server03,ERROR,401,Authentication failed,Medium
+2026-08-04 05:18:09,server05,ERROR,404,File not found,Low
+2026-08-04 05:39:46,server03,WARN,507,Disk space low,High
+2026-08-04 05:41:07,server03,WARN,504,Connection timeout,High
+2026-08-04 05:44:43,server01,ERROR,500,Database connection failed,Critical
+2026-08-04 06:18:00,server04,WARN,503,Service unavailable,High
+2026-08-04 06:44:06,server01,ERROR,503,Service unavailable,High
+2026-08-04 06:59:30,server04,WARN,500,Out of memory,Critical
+2026-08-04 07:01:49,server04,WARN,503,Service unavailable,High
+2026-08-04 07:18:56,server04,WARN,504,Connection timeout,High
+2026-08-04 07:19:47,server02,ERROR,500,Database connection failed,Critical
+2026-08-04 07:50:07,server05,WARN,500,Database connection failed,Critical
+2026-08-04 08:09:38,server04,WARN,500,Database connection failed,Critical
+2026-08-04 08:17:02,server03,ERROR,504,Connection timeout,High
+2026-08-04 08:25:35,server02,ERROR,500,Database connection failed,Critical
+2026-08-04 08:49:07,server01,WARN,504,Database query timeout,High
+2026-08-04 08:55:29,server01,ERROR,503,Network unreachable,High
+2026-08-04 09:00:01,server02,ERROR,503,Network unreachable,High
+2026-08-04 09:13:35,server02,ERROR,500,Out of memory,Critical
+2026-08-04 09:28:45,server01,WARN,503,Service unavailable,High
+2026-08-04 09:32:22,server04,ERROR,500,Out of memory,Critical
+2026-08-04 09:58:34,server04,ERROR,400,Invalid request,Low
+2026-08-04 10:14:31,server03,ERROR,404,File not found,Low
+2026-08-04 11:15:02,server03,ERROR,503,Service unavailable,High
+2026-08-04 12:21:36,server05,WARN,404,File not found,Low
+2026-08-04 12:31:44,server05,WARN,500,Database connection failed,Critical
+2026-08-04 12:43:03,server05,ERROR,500,Database connection failed,Critical
+2026-08-04 13:01:52,server01,ERROR,504,Connection timeout,High
+2026-08-04 13:02:50,server01,WARN,500,Database connection failed,Critical
+2026-08-04 13:11:36,server03,WARN,500,Broken pipe,Medium
+2026-08-04 13:14:42,server02,ERROR,504,Connection timeout,High
+2026-08-04 13:19:21,server01,ERROR,504,Connection timeout,High
+2026-08-04 13:21:57,server04,ERROR,504,Connection timeout,High
+2026-08-04 13:22:15,server02,ERROR,500,Out of memory,Critical
+2026-08-04 13:45:46,server01,WARN,500,Database connection failed,Critical
+2026-08-04 13:47:08,server05,ERROR,401,Authentication failed,Medium
+2026-08-04 13:53:59,server01,ERROR,500,Configuration error,High
+2026-08-04 13:59:06,server01,ERROR,500,Database connection failed,Critical
+2026-08-04 14:10:33,server03,ERROR,503,Service unavailable,High
+2026-08-04 14:30:02,server05,ERROR,500,Broken pipe,Medium
+2026-08-04 14:37:40,server05,ERROR,500,Database connection failed,Critical
+2026-08-04 14:40:01,server05,WARN,503,Service unavailable,High
+2026-08-04 15:08:33,server03,ERROR,503,Service unavailable,High
+2026-08-04 15:22:45,server02,ERROR,500,Configuration error,High
+2026-08-04 15:38:26,server04,WARN,507,Disk space low,High
+2026-08-04 16:00:16,server05,ERROR,500,Broken pipe,Medium
+2026-08-04 16:28:08,server05,ERROR,503,Service unavailable,High
+2026-08-04 16:35:20,server01,ERROR,504,Connection timeout,High
+2026-08-04 16:46:22,server05,WARN,504,Connection timeout,High
+2026-08-04 17:01:44,server01,ERROR,500,Database connection failed,Critical
+2026-08-04 17:08:19,server05,ERROR,500,Broken pipe,Medium
+2026-08-04 17:08:56,server01,ERROR,504,Connection timeout,High
+2026-08-04 18:04:02,server05,ERROR,504,Connection timeout,High
+2026-08-04 18:39:31,server05,WARN,504,Connection timeout,High
+2026-08-04 18:59:28,server04,ERROR,503,Network unreachable,High
+2026-08-04 19:00:30,server02,WARN,504,Connection timeout,High
+2026-08-04 19:05:05,server04,WARN,500,Database connection failed,Critical
+2026-08-04 19:34:10,server02,WARN,504,Connection timeout,High
+2026-08-04 19:37:02,server01,ERROR,404,File not found,Low
+2026-08-04 19:53:40,server04,WARN,500,Configuration error,High
+2026-08-04 19:54:59,server03,WARN,500,Out of memory,Critical
+2026-08-04 20:17:25,server01,ERROR,500,Database connection failed,Critical
+2026-08-04 20:50:07,server01,ERROR,500,Out of memory,Critical
+2026-08-04 21:57:25,server03,WARN,500,Configuration error,High
+2026-08-04 21:59:31,server01,WARN,403,Permission denied,High
+2026-08-04 22:25:20,server02,ERROR,500,Database connection failed,Critical
+2026-08-04 23:12:01,server01,ERROR,504,Connection timeout,High
+2026-08-04 23:13:32,server01,ERROR,500,Internal server error,Critical
+2026-08-04 23:22:49,server04,ERROR,504,Connection timeout,High
+2026-08-04 23:59:57,server02,WARN,504,Database query timeout,High
+2026-08-05 00:01:09,server04,ERROR,500,Configuration error,High
+2026-08-05 00:02:30,server01,WARN,500,Out of memory,Critical
+2026-08-05 00:29:54,server01,ERROR,500,Out of memory,Critical
+2026-08-05 01:59:53,server03,ERROR,403,Permission denied,High
+2026-08-05 02:22:26,server03,ERROR,429,Too many requests,Medium
+2026-08-05 02:24:58,server02,ERROR,504,Connection timeout,High
+2026-08-05 02:47:38,server04,ERROR,500,Database connection failed,Critical
+2026-08-05 02:51:50,server05,WARN,503,Service unavailable,High
+2026-08-05 03:00:26,server03,ERROR,503,Network unreachable,High
+2026-08-05 03:26:04,server01,ERROR,504,Connection timeout,High
+2026-08-05 03:36:35,server03,ERROR,504,Connection timeout,High
+2026-08-05 04:04:55,server02,WARN,504,Database query timeout,High
+2026-08-05 04:25:11,server04,WARN,504,Connection timeout,High
+2026-08-05 04:40:32,server04,WARN,500,Database connection failed,Critical
+2026-08-05 05:43:28,server02,ERROR,500,Configuration error,High
+2026-08-05 05:51:42,server04,WARN,504,Connection timeout,High
+2026-08-05 06:25:02,server04,ERROR,500,Database connection failed,Critical
+2026-08-05 06:27:15,server01,ERROR,500,Database connection failed,Critical
+2026-08-05 06:29:00,server05,WARN,500,Internal server error,Critical
+2026-08-05 07:00:27,server04,ERROR,504,Connection timeout,High
+2026-08-05 07:40:32,server02,WARN,429,Too many requests,Medium
+2026-08-05 09:09:19,server02,ERROR,504,Connection timeout,High
+2026-08-05 09:28:25,server01,ERROR,500,Broken pipe,Medium
+2026-08-05 09:37:50,server01,ERROR,504,Connection timeout,High
+2026-08-05 10:33:23,server05,ERROR,429,Too many requests,Medium
+2026-08-05 11:14:16,server02,ERROR,500,Out of memory,Critical
+2026-08-05 11:23:26,server01,WARN,503,Service unavailable,High
+2026-08-05 11:32:12,server04,ERROR,401,Authentication failed,Medium
+2026-08-05 11:52:16,server02,ERROR,504,Connection timeout,High
+2026-08-05 12:39:11,server05,ERROR,500,Out of memory,Critical
+2026-08-05 13:07:49,server05,WARN,503,Service unavailable,High
+2026-08-05 13:21:03,server04,ERROR,500,Out of memory,Critical
+2026-08-05 13:45:46,server03,ERROR,401,Authentication failed,Medium
+2026-08-05 13:56:00,server02,ERROR,503,Service unavailable,High
+2026-08-05 14:16:43,server05,WARN,504,Connection timeout,High
+2026-08-05 14:37:15,server02,ERROR,503,Network unreachable,High
+2026-08-05 15:00:58,server05,WARN,504,Connection timeout,High
+2026-08-05 15:09:31,server01,WARN,507,Disk space low,High
+2026-08-05 17:20:01,server05,ERROR,500,Database connection failed,Critical
+2026-08-05 17:23:50,server01,WARN,504,Database query timeout,High
+2026-08-05 17:27:05,server05,WARN,500,Broken pipe,Medium
+2026-08-05 17:29:41,server04,ERROR,503,Service unavailable,High
+2026-08-05 17:36:51,server03,ERROR,500,Database connection failed,Critical
+2026-08-05 18:06:35,server02,WARN,429,Too many requests,Medium
+2026-08-05 18:12:44,server01,ERROR,504,Connection timeout,High
+2026-08-05 18:16:24,server02,ERROR,500,Database connection failed,Critical
+2026-08-05 18:33:49,server05,WARN,500,Configuration error,High
+2026-08-05 18:59:38,server05,ERROR,504,Connection timeout,High
+2026-08-05 19:26:54,server02,WARN,503,Service unavailable,High
+2026-08-05 19:29:05,server04,WARN,500,Out of memory,Critical
+2026-08-05 19:49:22,server03,ERROR,500,Database connection failed,Critical
+2026-08-05 19:56:11,server01,WARN,503,Service unavailable,High
+2026-08-05 20:03:53,server05,WARN,500,Out of memory,Critical
+2026-08-05 20:07:24,server05,ERROR,504,Database query timeout,High
+2026-08-05 20:11:58,server01,ERROR,504,Database query timeout,High
+2026-08-05 20:32:28,server02,WARN,504,Connection timeout,High
+2026-08-05 20:36:03,server03,WARN,404,File not found,Low
+2026-08-05 21:34:28,server04,WARN,401,Authentication failed,Medium
+2026-08-05 22:23:19,server03,ERROR,503,Service unavailable,High
+2026-08-05 22:25:19,server03,ERROR,503,Service unavailable,High
+2026-08-05 22:25:42,server03,WARN,503,Service unavailable,High
+2026-08-05 23:25:26,server05,ERROR,504,Database query timeout,High
+2026-08-05 23:32:54,server02,WARN,503,Network unreachable,High
+2026-08-05 23:43:39,server02,WARN,503,Service unavailable,High
+2026-08-06 01:15:46,server03,WARN,503,Service unavailable,High
+2026-08-06 01:26:36,server05,ERROR,503,Service unavailable,High
+2026-08-06 01:35:30,server04,WARN,503,Service unavailable,High
+2026-08-06 01:43:06,server03,WARN,500,Database connection failed,Critical
+2026-08-06 02:09:57,server02,WARN,400,Invalid request,Low
+2026-08-06 03:07:43,server05,ERROR,401,Authentication failed,Medium
+2026-08-06 03:32:02,server02,ERROR,503,Service unavailable,High
+2026-08-06 03:46:31,server01,ERROR,500,Internal server error,Critical
+2026-08-06 03:57:59,server03,ERROR,500,Database connection failed,Critical
+2026-08-06 04:20:01,server03,ERROR,500,Database connection failed,Critical
+2026-08-06 04:38:22,server05,ERROR,503,Network unreachable,High
+2026-08-06 04:44:12,server01,ERROR,400,Invalid request,Low
+2026-08-06 04:58:46,server04,ERROR,504,Database query timeout,High
+2026-08-06 05:14:20,server03,WARN,500,Out of memory,Critical
+2026-08-06 05:16:19,server03,ERROR,500,Database connection failed,Critical
+2026-08-06 05:43:28,server05,ERROR,504,Connection timeout,High
+2026-08-06 05:47:25,server02,ERROR,500,Out of memory,Critical
+2026-08-06 06:22:36,server04,WARN,500,Database connection failed,Critical
+2026-08-06 06:33:53,server02,ERROR,500,Database connection failed,Critical
+2026-08-06 08:01:07,server05,ERROR,507,Disk space low,High
+2026-08-06 08:38:23,server03,ERROR,500,Out of memory,Critical
+2026-08-06 08:50:20,server04,ERROR,503,Service unavailable,High
+2026-08-06 08:51:38,server03,WARN,500,Broken pipe,Medium
+2026-08-06 10:06:29,server05,WARN,500,Database connection failed,Critical
+2026-08-06 10:11:38,server02,WARN,500,Database connection failed,Critical
+2026-08-06 10:27:49,server04,ERROR,504,Connection timeout,High
+2026-08-06 10:36:49,server05,ERROR,503,Service unavailable,High
+2026-08-06 10:52:54,server02,ERROR,500,Database connection failed,Critical
+2026-08-06 10:53:37,server01,ERROR,500,Database connection failed,Critical
+2026-08-06 11:05:43,server03,ERROR,500,Database connection failed,Critical
+2026-08-06 11:11:21,server01,ERROR,504,Database query timeout,High
+2026-08-06 11:19:33,server05,ERROR,504,Connection timeout,High
+2026-08-06 11:22:34,server04,WARN,500,Database connection failed,Critical
+2026-08-06 11:30:11,server04,WARN,500,Out of memory,Critical
+2026-08-06 11:35:20,server03,WARN,400,Invalid request,Low
+2026-08-06 11:49:58,server02,ERROR,504,Connection timeout,High
+2026-08-06 12:34:22,server05,ERROR,504,Connection timeout,High
+2026-08-06 12:50:33,server02,WARN,503,Service unavailable,High
+2026-08-06 12:54:20,server03,WARN,500,Out of memory,Critical
+2026-08-06 12:59:16,server05,WARN,500,Broken pipe,Medium
+2026-08-06 13:18:16,server01,ERROR,507,Disk space low,High
+2026-08-06 13:26:14,server02,ERROR,500,Internal server error,Critical
+2026-08-06 13:26:47,server02,ERROR,404,File not found,Low
+2026-08-06 13:37:28,server01,ERROR,504,Connection timeout,High
+2026-08-06 14:34:33,server03,ERROR,504,Connection timeout,High
+2026-08-06 14:50:41,server02,WARN,503,Service unavailable,High
+2026-08-06 14:56:47,server04,ERROR,503,Service unavailable,High
+2026-08-06 14:57:38,server04,ERROR,503,Network unreachable,High
+2026-08-06 15:00:39,server01,WARN,504,Connection timeout,High
+2026-08-06 15:06:32,server05,WARN,504,Connection timeout,High
+2026-08-06 15:36:21,server05,WARN,500,Database connection failed,Critical
+2026-08-06 16:47:18,server02,WARN,504,Connection timeout,High
+2026-08-06 16:48:31,server03,ERROR,400,Invalid request,Low
+2026-08-06 17:04:16,server05,ERROR,500,Database connection failed,Critical
+2026-08-06 17:11:48,server01,ERROR,500,Out of memory,Critical
+2026-08-06 17:31:37,server02,ERROR,500,Out of memory,Critical
+2026-08-06 17:52:54,server02,WARN,504,Connection timeout,High
+2026-08-06 19:05:32,server03,ERROR,504,Connection timeout,High
+2026-08-06 19:13:07,server05,WARN,500,Out of memory,Critical
+2026-08-06 19:13:18,server04,ERROR,500,Out of memory,Critical
+2026-08-06 19:13:27,server01,ERROR,500,Database connection failed,Critical
+2026-08-06 19:37:46,server01,ERROR,500,Out of memory,Critical
+2026-08-06 19:39:22,server05,ERROR,504,Connection timeout,High
+2026-08-06 20:03:55,server03,ERROR,500,Database connection failed,Critical
+2026-08-06 20:05:28,server04,WARN,504,Database query timeout,High
+2026-08-06 20:09:46,server03,ERROR,500,Out of memory,Critical
+2026-08-06 20:26:26,server03,ERROR,503,Service unavailable,High
+2026-08-06 20:26:45,server01,ERROR,504,Connection timeout,High
+2026-08-06 20:57:14,server02,WARN,504,Connection timeout,High
+2026-08-06 21:05:23,server01,ERROR,507,Disk space low,High
+2026-08-06 22:04:22,server03,ERROR,504,Connection timeout,High
+2026-08-06 22:28:26,server03,WARN,500,Out of memory,Critical
+2026-08-06 22:45:00,server02,ERROR,500,Database connection failed,Critical
+2026-08-07 00:19:45,server05,ERROR,500,Database connection failed,Critical
+2026-08-07 00:34:59,server04,ERROR,504,Connection timeout,High
+2026-08-07 00:43:18,server04,WARN,500,Out of memory,Critical
+2026-08-07 01:05:54,server02,ERROR,504,Connection timeout,High
+2026-08-07 01:40:31,server02,WARN,500,Database connection failed,Critical
+2026-08-07 01:49:31,server02,ERROR,504,Connection timeout,High
+2026-08-07 01:56:04,server01,WARN,503,Service unavailable,High
+2026-08-07 02:08:25,server01,ERROR,400,Invalid request,Low
+2026-08-07 02:32:13,server05,ERROR,503,Network unreachable,High
+2026-08-07 02:52:28,server05,WARN,500,Database connection failed,Critical
+2026-08-07 04:20:54,server03,ERROR,500,Configuration error,High
+2026-08-07 04:26:52,server02,ERROR,400,Invalid request,Low
+2026-08-07 04:44:40,server01,ERROR,504,Database query timeout,High
+2026-08-07 04:49:43,server04,WARN,503,Service unavailable,High
+2026-08-07 05:04:28,server03,ERROR,507,Disk space low,High
+2026-08-07 05:23:13,server02,WARN,500,Database connection failed,Critical
+2026-08-07 05:33:17,server01,WARN,500,Database connection failed,Critical
+2026-08-07 05:45:11,server02,ERROR,500,Database connection failed,Critical
+2026-08-07 06:00:33,server02,ERROR,503,Service unavailable,High
+2026-08-07 06:07:30,server05,ERROR,400,Invalid request,Low
+2026-08-07 06:12:25,server02,ERROR,503,Service unavailable,High
+2026-08-07 06:31:57,server05,WARN,504,Database query timeout,High
+2026-08-07 06:37:05,server02,WARN,504,Database query timeout,High
+2026-08-07 06:46:53,server01,WARN,503,Service unavailable,High
+2026-08-07 06:57:43,server04,ERROR,503,Service unavailable,High
+2026-08-07 07:58:37,server03,ERROR,503,Service unavailable,High
+2026-08-07 07:59:52,server04,ERROR,504,Connection timeout,High
+2026-08-07 08:18:56,server03,WARN,429,Too many requests,Medium
+2026-08-07 08:40:56,server03,ERROR,500,Configuration error,High
+2026-08-07 09:11:47,server04,ERROR,503,Network unreachable,High
+2026-08-07 09:24:41,server04,WARN,500,Database connection failed,Critical
+2026-08-07 10:18:10,server05,ERROR,503,Service unavailable,High
+2026-08-07 11:01:38,server04,WARN,504,Connection timeout,High
+2026-08-07 11:11:43,server05,ERROR,500,Database connection failed,Critical
+2026-08-07 11:12:39,server04,ERROR,504,Connection timeout,High
+2026-08-07 11:41:39,server04,WARN,503,Network unreachable,High
+2026-08-07 11:42:36,server03,WARN,504,Connection timeout,High
+2026-08-07 11:46:21,server01,ERROR,404,File not found,Low
+2026-08-07 11:47:40,server02,ERROR,503,Network unreachable,High
+2026-08-07 11:52:03,server05,ERROR,500,Database connection failed,Critical
+2026-08-07 11:52:22,server01,ERROR,500,Database connection failed,Critical
+2026-08-07 13:13:54,server01,ERROR,500,Broken pipe,Medium
+2026-08-07 13:45:31,server02,ERROR,500,Database connection failed,Critical
+2026-08-07 14:16:10,server01,ERROR,500,Internal server error,Critical
+2026-08-07 14:28:42,server02,ERROR,503,Service unavailable,High
+2026-08-07 14:51:58,server04,ERROR,504,Connection timeout,High
+2026-08-07 16:15:41,server05,ERROR,507,Disk space low,High
+2026-08-07 16:16:17,server03,ERROR,500,Database connection failed,Critical
+2026-08-07 16:48:41,server05,ERROR,500,Out of memory,Critical
+2026-08-07 17:21:48,server01,ERROR,504,Database query timeout,High
+2026-08-07 17:28:50,server03,ERROR,500,Out of memory,Critical
+2026-08-07 17:38:01,server04,ERROR,507,Disk space low,High
+2026-08-07 17:41:46,server05,WARN,500,Database connection failed,Critical
+2026-08-07 18:03:54,server01,WARN,504,Connection timeout,High
+2026-08-07 18:32:09,server03,WARN,503,Network unreachable,High
+2026-08-07 18:38:31,server03,WARN,500,Out of memory,Critical
+2026-08-07 18:42:12,server05,WARN,504,Connection timeout,High
+2026-08-07 19:07:33,server02,WARN,429,Too many requests,Medium
+2026-08-07 19:25:43,server04,ERROR,504,Database query timeout,High
+2026-08-07 19:34:29,server01,WARN,503,Service unavailable,High
+2026-08-07 20:04:54,server02,ERROR,500,Out of memory,Critical
+2026-08-07 20:11:02,server03,ERROR,504,Connection timeout,High
+2026-08-07 20:11:15,server01,WARN,500,Database connection failed,Critical
+2026-08-07 20:12:16,server04,ERROR,500,Database connection failed,Critical
+2026-08-07 20:17:16,server01,WARN,403,Permission denied,High
+2026-08-07 20:24:14,server03,ERROR,500,Database connection failed,Critical
+2026-08-07 20:34:18,server02,WARN,500,Configuration error,High
+2026-08-07 20:35:50,server02,WARN,504,Connection timeout,High
+2026-08-07 20:50:07,server02,ERROR,504,Connection timeout,High
+2026-08-07 21:06:19,server05,ERROR,500,Database connection failed,Critical
+2026-08-07 21:16:51,server04,WARN,500,Out of memory,Critical
+2026-08-07 21:19:50,server01,ERROR,503,Service unavailable,High
+2026-08-07 21:20:56,server03,ERROR,503,Service unavailable,High
+2026-08-07 21:55:32,server01,ERROR,500,Database connection failed,Critical
+2026-08-07 22:02:30,server04,WARN,400,Invalid request,Low
+2026-08-07 22:02:49,server04,WARN,503,Service unavailable,High
+2026-08-07 22:13:25,server03,WARN,504,Connection timeout,High
+2026-08-07 22:17:07,server04,WARN,507,Disk space low,High
+2026-08-07 22:36:55,server02,ERROR,500,Out of memory,Critical
+2026-08-07 22:54:52,server01,ERROR,504,Connection timeout,High
+2026-08-07 23:04:21,server05,ERROR,503,Service unavailable,High
+2026-08-07 23:12:29,server02,ERROR,400,Invalid request,Low
+2026-08-07 23:35:53,server01,ERROR,504,Connection timeout,High
+2026-08-07 23:43:13,server03,WARN,403,Permission denied,High
+2026-08-08 00:08:30,server02,ERROR,500,Database connection failed,Critical
+2026-08-08 00:13:38,server01,WARN,504,Database query timeout,High
+2026-08-08 00:18:44,server03,ERROR,500,Out of memory,Critical
+2026-08-08 00:35:16,server02,WARN,504,Database query timeout,High
+2026-08-08 00:51:17,server04,ERROR,500,Database connection failed,Critical
+2026-08-08 00:56:04,server02,WARN,504,Connection timeout,High
+2026-08-08 01:08:17,server02,ERROR,504,Connection timeout,High
+2026-08-08 01:08:19,server01,ERROR,500,Database connection failed,Critical
+2026-08-08 01:20:28,server02,WARN,500,Database connection failed,Critical
+2026-08-08 01:25:28,server02,WARN,504,Connection timeout,High
+2026-08-08 01:27:22,server01,WARN,503,Network unreachable,High
+2026-08-08 01:29:03,server02,ERROR,504,Connection timeout,High
+2026-08-08 01:42:24,server02,WARN,503,Service unavailable,High
+2026-08-08 02:01:26,server03,ERROR,404,File not found,Low
+2026-08-08 02:09:43,server01,WARN,503,Network unreachable,High
+2026-08-08 02:21:22,server02,ERROR,504,Connection timeout,High
+2026-08-08 02:31:06,server04,ERROR,504,Connection timeout,High
+2026-08-08 03:28:28,server02,WARN,500,Database connection failed,Critical
+2026-08-08 03:34:26,server05,ERROR,500,Database connection failed,Critical
+2026-08-08 03:59:01,server01,ERROR,504,Connection timeout,High
+2026-08-08 04:11:59,server05,WARN,500,Out of memory,Critical
+2026-08-08 04:23:27,server01,ERROR,503,Service unavailable,High
+2026-08-08 04:25:12,server05,ERROR,400,Invalid request,Low
+2026-08-08 05:12:11,server03,ERROR,500,Database connection failed,Critical
+2026-08-08 05:15:16,server01,ERROR,500,Database connection failed,Critical
+2026-08-08 05:45:50,server03,WARN,504,Connection timeout,High
+2026-08-08 05:47:36,server03,WARN,500,Out of memory,Critical
+2026-08-08 06:30:25,server02,ERROR,500,Configuration error,High
+2026-08-08 06:35:04,server03,WARN,429,Too many requests,Medium
+2026-08-08 07:00:53,server04,WARN,429,Too many requests,Medium
+2026-08-08 07:32:19,server05,ERROR,401,Authentication failed,Medium
+2026-08-08 07:40:34,server02,WARN,504,Connection timeout,High
+2026-08-08 07:40:55,server04,WARN,503,Service unavailable,High
